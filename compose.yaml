@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  zmk:
+    image: zmkfirmware/zmk-dev-x86_64:3.5-branch # or '3.2-branch'
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
