@@ -1,0 +1,3 @@
+[submodule "SofleKeyboard"]
+	path = SofleKeyboard
+	url = https://github.com/josefadamcik/SofleKeyboard.git
